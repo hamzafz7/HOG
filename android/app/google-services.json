@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575659859171",
+    "project_id": "houseofgenuises",
+    "storage_bucket": "houseofgenuises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575659859171:android:c4f50e14dafcb6afd939d6",
+        "android_client_info": {
+          "package_name": "com.amzah.sesiuneg_fo_esuoh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7sxnh1pysM0PrEF1sDm3S5fQdKMmKCFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
